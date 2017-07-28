@@ -1,0 +1,13 @@
+// BEM Specific 
+
+@mixin bem-element($elementName){
+    @at-root #{&}__#{$elementName} {
+        @content;
+    }
+}
+@mixin bem-modifier($modifierName){
+    $dash: unquote("--");
+     @at-root #{&}#{$dash}#{$modifierName} {
+        @content;
+    }
+}

@@ -1,0 +1,91 @@
+[{
+        "id": "1",
+        "name": "George Georgington",
+        "phone": "081 987 1234",
+        "tasks": 45,
+        "files": 2,
+        "streams": 6,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "2",
+        "name": "Patrick Not-Georgington",
+        "phone": "075 654 1234",
+        "tasks": 1,
+        "files": 2,
+        "streams": 3,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "3",
+        "name": "Savanna Szechuan",
+        "phone": "082 222 1212",
+        "tasks": 2,
+        "files": 3,
+        "streams": 10,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "4",
+        "name": "Artichoke Sarsaparilla",
+        "phone": "082 679 1379",
+        "tasks": 3,
+        "files": 2,
+        "streams": 1,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "5",
+        "name": "Peter Porterhouse",
+        "phone": "079 978 1224",
+        "tasks": 2,
+        "files": 3,
+        "streams": 6,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "6",
+        "name": "Rupert Ribeye",
+        "phone": "",
+        "tasks": 0,
+        "files": 0,
+        "streams": 0,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "7",
+        "name": "Sarah Silverside",
+        "phone": "064 582 7985",
+        "tasks": 80,
+        "files": 10,
+        "streams": 256,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "8",
+        "name": "Frederick Flank",
+        "phone": "078 654 8752",
+        "tasks": 8,
+        "files": 4,
+        "streams": 2,
+        "managerKey": "",
+        "managing": []
+    },
+    {
+        "id": "9",
+        "name": "Bartholomew Beauregard Brisket",
+        "phone": "079 282 4682",
+        "tasks": 4,
+        "files": 9,
+        "streams": 4,
+        "managerKey": "",
+        "managing": []
+    }
+]

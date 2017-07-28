@@ -3,11 +3,21 @@
   "version": "1.0.0",
   "description": "This test aims to assess your frontend proficiency and expertise level with regards to HTML5, CSS3 (using SASS) and JavaScript (core &amp; jQuery)",
   "dependencies": {
+    "core-js": "^2.4.1",
+    "gulp-concat": "^2.6.1",
     "gulp-sass": "^3.1.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "babel-version": "babel --version",
+    "babel-watch": "babel js --watch --out-file ./dist/js/scripts.js --source-maps inline",
+    "babel-prod": "babel js --watch --out-file ./dist/js/scripts.js"
   },
   "repository": {
     "type": "git",

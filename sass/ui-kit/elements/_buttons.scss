@@ -1,0 +1,9 @@
+
+.btn {
+    @include bem-modifier("blue") {
+        color: $blue;
+    }
+    @include bem-element("interaction") {
+        display: block;
+    }
+}

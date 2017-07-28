@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900');
+
+$font-stack: 'Source Sans Pro', sans-serif;
+
+@mixin font-defaults(){
+    font-family: $font-stack;
+}
+
+@mixin font-regular(){
+    font-weight: 400;
+}
+
+@mixin font-bold(){
+    font-weight: 700;
+}
+
+@mixin font-black(){
+    font-weight: 900;
+}
